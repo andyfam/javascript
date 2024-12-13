@@ -11,3 +11,7 @@ String object has some useful function to manipulate it. We can use slice() meth
 Strict equality used to compare not only the value but also the data type of the variables.
 
 `==` only compare the value, so number `1` equals to the string `'1'`
+
+# Array
+
+We use array to hold more than a value. 
