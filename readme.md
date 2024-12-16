@@ -18,4 +18,8 @@ We use array to hold more than a value.
 
 # Spread Operator
 
-Spread operator used to unpacking iterable element like array, string.
+Spread operator `...` used to unpacking iterable element like array, string.
+
+# Rest Parameter
+
+Rest parameter `...` used to bundle multiple parameters into an array.
