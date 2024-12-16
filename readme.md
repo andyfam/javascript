@@ -15,3 +15,7 @@ Strict equality used to compare not only the value but also the data type of the
 # Array
 
 We use array to hold more than a value. 
+
+# Spread Operator
+
+Spread operator used to unpacking iterable element like array, string.

@@ -40,3 +40,15 @@ for(i=0; i<fruits.length;i++){
 for(let fruit of fruits){
     console.log(fruit);
 }
+
+// 2D arrays
+const matrix = [ 
+                [1, 2, 3], 
+                [4, 5, 6], 
+                [7, 8, 9]
+            ];
+
+for(let row of matrix){
+    const rowString = row.join(' ');
+    console.log(rowString);
+}
