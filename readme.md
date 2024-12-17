@@ -23,3 +23,7 @@ Spread operator `...` used to unpacking iterable element like array, string.
 # Rest Parameter
 
 Rest parameter `...` used to bundle multiple parameters into an array.
+
+# Callback
+
+Callback is use a function as a parameter for another function, which can operate asynchronous operation and make sure one function is executed after another.
