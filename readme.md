@@ -27,3 +27,7 @@ Rest parameter `...` used to bundle multiple parameters into an array.
 # Callback
 
 Callback is use a function as a parameter for another function, which can operate asynchronous operation and make sure one function is executed after another.
+
+# Foreach
+
+Foreach() method is used for iterate the elements in an array, and apply a function to each element.
