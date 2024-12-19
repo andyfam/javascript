@@ -35,3 +35,7 @@ Foreach() method is used for iterate the elements in an array, and apply a funct
 # map
 
 Map() methond is used for iterate the elements in an array, and apply a function to each element, then return an new array.
+
+# filter
+
+Filter() method fiter the elements in an array based on a function.
