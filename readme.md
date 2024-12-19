@@ -31,3 +31,7 @@ Callback is use a function as a parameter for another function, which can operat
 # Foreach
 
 Foreach() method is used for iterate the elements in an array, and apply a function to each element.
+
+# map
+
+Map() methond is used for iterate the elements in an array, and apply a function to each element, then return an new array.
