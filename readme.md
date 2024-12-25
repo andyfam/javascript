@@ -16,6 +16,22 @@ Strict equality used to compare not only the value but also the data type of the
 
 We use array to hold more than a value. 
 
+# Some method used for Array
+## Foreach
+
+Foreach() method is used for iterate the elements in an array, and apply a function to each element.
+
+## map
+
+Map() methond is used for iterate the elements in an array, and apply a function to each element, then return an new array.
+
+## filter
+
+Filter() method fiter the elements in an array based on a function.
+
+## reduce
+reduce() method used to reduce an array to a single value
+
 # Spread Operator
 
 Spread operator `...` used to unpacking iterable element like array, string.
@@ -28,14 +44,3 @@ Rest parameter `...` used to bundle multiple parameters into an array.
 
 Callback is use a function as a parameter for another function, which can operate asynchronous operation and make sure one function is executed after another.
 
-# Foreach
-
-Foreach() method is used for iterate the elements in an array, and apply a function to each element.
-
-# map
-
-Map() methond is used for iterate the elements in an array, and apply a function to each element, then return an new array.
-
-# filter
-
-Filter() method fiter the elements in an array based on a function.
