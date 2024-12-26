@@ -48,3 +48,7 @@ Rest parameter `...` used to bundle multiple parameters into an array.
 ## Function expression
 
 By function expression, we can just define function as variables or values, it's been used in callbacks commonly.
+
+## Arrow Function
+
+Arrow function is a concise way of function expression.
