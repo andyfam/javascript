@@ -12,6 +12,10 @@ Strict equality used to compare not only the value but also the data type of the
 
 `==` only compare the value, so number `1` equals to the string `'1'`
 
+# Spread Operator
+
+Spread operator `...` used to unpacking iterable element like array, string.
+
 # Array
 
 We use array to hold more than a value. 
@@ -32,15 +36,15 @@ Filter() method fiter the elements in an array based on a function.
 ## reduce
 reduce() method used to reduce an array to a single value
 
-# Spread Operator
-
-Spread operator `...` used to unpacking iterable element like array, string.
-
-# Rest Parameter
-
-Rest parameter `...` used to bundle multiple parameters into an array.
-
-# Callback
+# Function and Parameters
+## Callback
 
 Callback is use a function as a parameter for another function, which can operate asynchronous operation and make sure one function is executed after another.
 
+## Rest Parameter
+
+Rest parameter `...` used to bundle multiple parameters into an array.
+
+## Function expression
+
+By function expression, we can just define function as variables or values, it's been used in callbacks commonly.
