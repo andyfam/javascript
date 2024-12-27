@@ -52,3 +52,7 @@ By function expression, we can just define function as variables or values, it's
 ## Arrow Function
 
 Arrow function is a concise way of function expression.
+
+# Object
+
+Object is a collection of properties and methods.
